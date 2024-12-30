@@ -9,7 +9,7 @@
 
 <channel>
 	<title>VemvTV</title>
-	<atom:link href="https://vemvtv.com/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://raw.githubusercontent.com/luizpavan10/icone/refs/heads/main/icone.xml" rel="self" type="application/rss+xml" />
 	<link>https://vemvtv.com</link>
 	<description></description>
 	<lastBuildDate>Wed, 27 Nov 2024 21:35:40 +0000</lastBuildDate>
